@@ -25,7 +25,7 @@ The primary objective of this project was to create a visually compelling and in
 ## How to Use
 ### Cloning the Repository
 **Clone the Repository:** Open your terminal and run the following command:  
-`https://github.com/Ramzan-Asif/QGIS-Electricity-Coverage`
+`https://github.com/Ramzan-Asif/QGIS-Electricity-Coverage`  
 **Navigate to the Project Directory:** Move into the directory where the project files are located:  
 `cd Electricity-Coverage-Pakistan`
 ### Using the Project
@@ -35,11 +35,11 @@ The primary objective of this project was to create a visually compelling and in
 **Further Analysis:** Use the included shapefiles (Districts.shp, Provinces.shp, PakistanMap.shp) to extend your analysis or create additional visualizations.
 
 ## Electricity Coverage by Districts.png
-
+![Uploading Electricity Coverage _ by Districts.png…]()
 
 ## Contribution
 If you have any suggestions or improvements for this project, feel free to fork the repository and create a pull request. Contributions are always welcome!
 
 ## Contact
-If you have any questions or feedback, please feel free to reach out to me on (LinkedIn)[https://www.linkedin.com/in/ramzan-asif/].
+If you have any questions or feedback, please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ramzan-asif/).
 
