@@ -24,15 +24,18 @@ The primary objective of this project was to create a visually compelling and in
 
 ## How to Use
 ### Cloning the Repository
-**Clone the Repository:** Open your terminal and run the following command:
+**Clone the Repository:** Open your terminal and run the following command:  
 `https://github.com/Ramzan-Asif/QGIS-Electricity-Coverage`
-**Navigate to the Project Directory:** Move into the directory where the project files are located:
+**Navigate to the Project Directory:** Move into the directory where the project files are located:  
 `cd Electricity-Coverage-Pakistan`
 ### Using the Project
 **Open the QGIS Project:** Launch QGIS on your system. Open the Electricity Coverage by Districts.qgz file within the QGIS application.  
 **Explore the Data:** Examine the layers, symbology, and data configurations used to create the heat map. You can modify, add, or remove layers according to your needs.  
 **View the Map:** The heat map should load automatically, displaying the electricity coverage across Pakistan.  
 **Further Analysis:** Use the included shapefiles (Districts.shp, Provinces.shp, PakistanMap.shp) to extend your analysis or create additional visualizations.
+
+## Electricity Coverage by Districts.png
+
 
 ## Contribution
 If you have any suggestions or improvements for this project, feel free to fork the repository and create a pull request. Contributions are always welcome!
